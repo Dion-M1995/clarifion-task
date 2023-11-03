@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import clarifion from 'public/assets/images/image6=4.jpg';
+import clarifion from 'public/assets/images/image4.jpg';
 import imageremovebg from 'public/assets/images/image-removebg.png';
 import user from 'public/assets/images/user.jpg';
 import Star from 'public/assets/icons/star.svg';
