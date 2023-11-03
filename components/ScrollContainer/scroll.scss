@@ -1,0 +1,31 @@
+.scroll{
+    position: relative;
+    display:flex;
+    max-width: 1276px;
+    align-items: center;
+    width: 100%;
+    
+}
+.scroll_con{
+    overflow: hidden;
+    &>li{
+        margin-right: 134px;
+        white-space: nowrap;
+    }
+}
+.prevButton,.nextButton{
+  border: none;
+  background: none;
+  color: #fff;
+  padding:0px 10px;
+  position: absolute;
+}
+.prevButton{
+  top: 1px;
+  left: -30px;
+  transform: rotate(-180deg);
+}
+.nextButton{
+ top: 5px;
+ right: -30px;
+}
