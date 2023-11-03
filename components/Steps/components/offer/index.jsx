@@ -1,13 +1,13 @@
 import React from 'react';
 import Image from 'next/image';
-import clarifion from 'public/assets/images/image 4.jpg';
+import clarifion from 'public/assets/images/image6=4.jpg';
 import imageremovebg from 'public/assets/images/image-removebg.png';
 import user from 'public/assets/images/user.jpg';
 import Star from 'public/assets/icons/star.svg';
 import CheckMArk from 'public/assets/icons/check_mark.svg';
 import Tick from 'public/assets/icons/tick-circle.svg';
 import Percent from 'public/assets/icons/percent.svg';
-import Guarantee from 'public/assets/images/image 6.png';
+import Guarantee from 'public/assets/images/image6.png';
 import Lock from 'public/assets/icons/lock.svg';
 
 import Amex from 'public/assets/icons/amex.svg';
